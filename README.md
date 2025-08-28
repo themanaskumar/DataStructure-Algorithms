@@ -6,3 +6,5 @@ This is my DSA repository where I will be posting solutions to the DSA question 
     FirstMissingPositive.java
 ### 2. Best Time to buy and sell stocks:
     BuySellStock.java
+### 3. Array contains duplicates:
+    ContainsDuplicates.java
