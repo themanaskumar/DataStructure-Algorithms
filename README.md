@@ -2,9 +2,12 @@
 This is my DSA repository where I will be posting solutions to the DSA question that I am solving in Java.
 
 ## Below is the list of questions and the java file names in this directory:
-### 1. Find the first missing positive integer in an integer array:
+## Array:
+### 1. First Missing Positive Integer:
     FirstMissingPositive.java
 ### 2. Best Time to buy and sell stocks:
     BuySellStock.java
 ### 3. Array contains duplicates:
     ContainsDuplicates.java
+### 4. Produc of Array Except Self:
+    ProductExceptSelf.java
