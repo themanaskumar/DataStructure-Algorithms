@@ -1,4 +1,4 @@
-# My DSA Repository
+# Manas' DSA Repository
 This is my DSA repository where I will be posting solutions to the DSA question that I am solving in Java.
 
 ## Below is the list of questions and the java file names in this directory:
@@ -16,3 +16,5 @@ This is my DSA repository where I will be posting solutions to the DSA question 
 ### 6. 3Sum (Better):
     ThreeSum1.java
 `Note: Not the optimal solution yet acceptable on leetcode. For optimal solution see ThreeSumOptimal.java`
+### 7. 3Sum (Optimal)
+    ThreeSumOptimal.java
