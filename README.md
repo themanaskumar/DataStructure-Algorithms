@@ -15,4 +15,4 @@ This is my DSA repository where I will be posting solutions to the DSA question 
     MaxSubarray.java
 ### 6. 3Sum (Better):
     ThreeSum1.java
-    Note: Not the optimal solution yet acceptable on leetcode. For optimal solution see ThreeSumOptimal.java
+`Note: Not the optimal solution yet acceptable on leetcode. For optimal solution see ThreeSumOptimal.java`
