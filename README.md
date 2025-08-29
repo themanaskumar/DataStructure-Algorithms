@@ -2,7 +2,7 @@
 This is my DSA repository where I will be posting solutions to the DSA question that I am solving in Java.
 
 ## Below is the list of questions and the java file names in this directory:
-## Array:
+## Arrays:
 ### 1. First Missing Positive Integer:
     FirstMissingPositive.java
 ### 2. Best Time to buy and sell stocks:
