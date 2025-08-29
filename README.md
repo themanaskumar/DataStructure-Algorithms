@@ -9,5 +9,7 @@ This is my DSA repository where I will be posting solutions to the DSA question 
     BuySellStock.java
 ### 3. Array contains duplicates:
     ContainsDuplicates.java
-### 4. Produc of Array Except Self:
+### 4. Product of Array Except Self:
     ProductExceptSelf.java
+### 5. Maximum Subarray Sum:
+    MaxSubarray.java
