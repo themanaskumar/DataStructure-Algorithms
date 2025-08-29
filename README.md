@@ -13,3 +13,6 @@ This is my DSA repository where I will be posting solutions to the DSA question 
     ProductExceptSelf.java
 ### 5. Maximum Subarray Sum:
     MaxSubarray.java
+### 6. 3Sum (Better):
+    ThreeSum1.java
+    Note: Not the optimal solution yet acceptable on leetcode. For optimal solution see ThreeSumOptimal.java
