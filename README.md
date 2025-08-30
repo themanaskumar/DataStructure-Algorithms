@@ -18,3 +18,6 @@ This is my DSA repository where I will be posting solutions to the DSA question 
 > Note: Not the optimal solution yet acceptable on leetcode. For optimal solution see ThreeSumOptimal.java
 
 #### 7. 3Sum (Optimal): [ThreeSumOptimal.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Arrays/ThreeSumOptimal.java)
+
+#### 8. Trapping Rain Water: [TrapRain1.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Arrays/TrapRain1.java)
+> This is the first approcah using prefix and suffix max arrays and is not opotimal. For optimal solution see TrapRain2.java
