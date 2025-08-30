@@ -19,5 +19,7 @@ This is my DSA repository where I will be posting solutions to the DSA question 
 
 #### 7. 3Sum (Optimal): [ThreeSumOptimal.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Arrays/ThreeSumOptimal.java)
 
-#### 8. Trapping Rain Water: [TrapRain1.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Arrays/TrapRain1.java)
+#### 8. Trapping Rain Water (Approach 1): [TrapRain1.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Arrays/TrapRain1.java)
 > This is the first approcah using prefix and suffix max arrays and is not opotimal. For optimal solution see TrapRain2.java
+
+#### 9. Trapping Rain Water (Approach 2): [TrapRain2.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Arrays/TrapRain2.java)
