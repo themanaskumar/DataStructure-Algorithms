@@ -1,7 +1,7 @@
 # Manas' DSA Repository
 This is my DSA repository where I will be posting solutions to the DSA question that I am solving in Java.
 
-Below is the list of questions and the java file names in this directory:
+Below is the list of questions and the java file links in this directory:
 ## Arrays:
 1. First Missing Positive Integer: [FirstMissingPositive.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Arrays/FirstMissingPositive.java)
 
@@ -27,5 +27,7 @@ Below is the list of questions and the java file names in this directory:
 ## Strings
 1. Valid Palindrome: [ValidPalindrome.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Strings/ValidPalindrome.java)
 
-2. Longest Substring Without Repeating Characters: [LongestSubstrNoRepeat1.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Strings/LongestSubstrNoRepeat1.java)
-   <!-- > Note: Not the ooptimal solution, yet acceptable on leetcode. For optimal solution see LongestSubstrNoRepeat2.java -->
+2. Longest Substring Without Repeating Characters (Approach 1): [LongestSubstrNoRepeat1.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Strings/LongestSubstrNoRepeat1.java)
+   > Note: Not the ooptimal solution, yet acceptable on leetcode. For optimal solution see LongestSubstrNoRepeat2.java
+
+3. Longest Substring Without Repeating Characters (Approach 2): [LongestSubstrNoRepeat2.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Strings/LongestSubstrNoRepeat2.java)
