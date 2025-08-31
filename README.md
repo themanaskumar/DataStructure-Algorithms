@@ -24,7 +24,7 @@ This is my DSA repository where I will be posting solutions to the DSA question 
 
 #### 9. Trapping Rain Water (Approach 2): [TrapRain2.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Arrays/TrapRain2.java)
 
-***
-Strings
-***
-#### 1. Valid Palindrome: [ValidPalindrome.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Arrays/ValidPalindrome.java)
+---
+### Strings
+---
+#### 1. Valid Palindrome: [ValidPalindrome.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Strings/ValidPalindrome.java)
