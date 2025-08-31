@@ -28,3 +28,6 @@ This is my DSA repository where I will be posting solutions to the DSA question 
 ### Strings
 ---
 #### 1. Valid Palindrome: [ValidPalindrome.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Strings/ValidPalindrome.java)
+
+#### 2. Longest Substring Without Repeating Characters: [LongestSubstrNoRepeat1.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Strings/LongestSubstrNoRepeat1.java)
+> Note: Not the ooptimal solution, yet acceptable on leetcode. For optimal solution see LongestSubstrNoRepeat2.java
