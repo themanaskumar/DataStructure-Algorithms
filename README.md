@@ -23,3 +23,8 @@ This is my DSA repository where I will be posting solutions to the DSA question 
 > This is the first approcah using prefix and suffix max arrays and is not opotimal. For optimal solution see TrapRain2.java
 
 #### 9. Trapping Rain Water (Approach 2): [TrapRain2.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Arrays/TrapRain2.java)
+
+***
+Strings
+***
+#### 1. Valid Palindrome: [ValidPalindrome.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Arrays/ValidPalindrome.java)
