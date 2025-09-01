@@ -31,3 +31,5 @@ Below is the list of questions and the java file links in this directory:
    > Note: Not the ooptimal solution, yet acceptable on leetcode. For optimal solution see LongestSubstrNoRepeat2.java
 
 3. Longest Substring Without Repeating Characters (Approach 2): [LongestSubstrNoRepeat2.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Strings/LongestSubstrNoRepeat2.java)
+
+4. Valid Anagrams: [ValidAnagrams.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Strings/ValidAnagrams.java)
