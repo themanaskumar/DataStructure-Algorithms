@@ -33,3 +33,5 @@ Below is the list of questions and the java file links in this directory:
 3. Longest Substring Without Repeating Characters (Approach 2): [LongestSubstrNoRepeat2.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Strings/LongestSubstrNoRepeat2.java)
 
 4. Valid Anagrams: [ValidAnagrams.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Strings/ValidAnagrams.java)
+
+5. Group Anagrams: [GroupAnagrams.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Strings/GroupAnagrams.java)
