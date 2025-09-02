@@ -17,27 +17,33 @@
 import java.util.*;
 
 public class BuySellStock {
-    int getMaxProfit(int[] prices){
+    int getMaxProfit(int[] prices) {
         int maxProfit = 0;
         int minPrice = prices[0];
-        for(int i = 1; i < prices.length; i++){
-            int profit = prices[i]-minPrice;
+        for (int i = 1; i < prices.length; i++) {
+            int profit = prices[i] - minPrice;
             maxProfit = Math.max(maxProfit, profit);
             minPrice = Math.min(minPrice, prices[0]);
         }
         return maxProfit;
     }
-    public static void main(String[] args){
-        Scanner sc = new Scanner(System.in);
-        System.out.print("Enter the size of the array: ");
-        int n = sc.nextInt();
-        int[] arr = new int[n];
-        System.out.print("Enter the array elements: ");
-        for(int i = 0; i < n; i++){
-            arr[i] = sc.nextInt();
+
+    public static void main(String[] args) {
+        try (Scanner sc = new Scanner(System.in);) {
+            System.out.print("Enter the size of the array: ");
+            int n = sc.nextInt();
+            int[] arr = new int[n];
+            System.out.print("Enter the array elements: ");
+            for (int i = 0; i < n; i++) {
+                arr[i] = sc.nextInt();
+            }
+            BuySellStock solver = new BuySellStock();
+            int result = solver.getMaxProfit(arr);
+            System.out.println("Maximum profit = " + result);
+        } catch (Exception e) {
+            System.out.println("Error: " + e.getMessage());
+            e.printStackTrace();
         }
-        BuySellStock solver = new BuySellStock();
-        int result = solver.getMaxProfit(arr);
-        System.out.println("Maximum profit = "+result);
+
     }
 }
