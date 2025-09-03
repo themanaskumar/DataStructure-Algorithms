@@ -17,11 +17,17 @@ import java.util.*;
 
 public class FindInsertPos{
     int findPos(int nums[], int target){
-        int i = 0;
-        while (i < nums.length && nums[i] < target) {
-            i++;
+        int start = 0, end = nums.length-1;
+        while(start <= end){
+            int mid = start+(end-start)/2;
+            if(nums[mid] == target)
+                return mid;
+            else if(nums[mid] < target)
+                start = mid+1;
+            else
+                end = mid-1;
         }
-        return i;
+        return start;
     }
     public static void main(String[] args) {
         try(Scanner sc = new Scanner(System.in)) {
