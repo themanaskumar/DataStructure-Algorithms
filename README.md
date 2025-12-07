@@ -39,3 +39,7 @@ Below is the list of questions and the java file links in this directory:
 5. Group Anagrams: [GroupAnagrams.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Strings/GroupAnagrams.java)
 
 6. Valid Parantheses: [ValidParantheses.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Strings/ValidParantheses.java)
+
+---
+## Math
+1. Count Odd Number in Interval: [CountOddInInterval.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Math/CountOddInInterval.java)
