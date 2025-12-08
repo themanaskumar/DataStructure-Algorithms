@@ -43,3 +43,5 @@ Below is the list of questions and the java file links in this directory:
 ---
 ## Math
 1. Count Odd Number in Interval: [CountOddInInterval.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Math/CountOddInInterval.java)
+
+2. Count Square Sum Triples: [CountSquareSumTrips.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Math/CountSquareSumTrips.java)
