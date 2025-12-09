@@ -52,4 +52,4 @@ Below is the list of questions and the java file links in this directory:
 
 ---
 ## Linked-List
-1. Remove Duplicates from Sorted List: [Removeduplicates.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Linked-List/HappyNumber.java)
+1. Remove Duplicates from Sorted List: [Removeduplicates.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/LinkedLists/RemoveDuplicates.java)
