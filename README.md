@@ -25,6 +25,8 @@ Below is the list of questions and the java file links in this directory:
 
 10. Find Insert Position: [FindInsertPos.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Arrays/FindInsertPos.java)
 
+11. Count Special Triplets: [CountSpecTrips.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Arrays/CountSpecTrips.java)
+
 ---
 ## Strings
 1. Valid Palindrome: [ValidPalindrome.java](https://github.com/themanaskumar/DataStructure-Algorithms/blob/main/Strings/ValidPalindrome.java)
